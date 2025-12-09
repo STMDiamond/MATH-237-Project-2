@@ -5,7 +5,7 @@ Hi there and welcome to the page for my second project in MATH 237. Focusing on 
 3. Feature Engineering – Use a mix of one-hot encoding, binning, scaling, and interaction features for the chosen variables.
 4. Data Plots – Generate bar plots along with boxplots for two of the variables while using histograms as well as scatterplots for the other two variables.
 5. Multiple Linear Regression – Separate the data with a 80-20 split, form a correlation matrix, scale both sets, train the new model, examine each coefficient, and test both sets' accuracy.
-6. Ethical Concerns and Data Limitations – Discuss a few possible problems with how the data was collected and talk about any important points that may have been missed.
+6. Ethical Concerns and Data Limitations – Discuss a few possible problems with how the data was collected and talk about any important points that may have been missed.  
 Note: For both the "Feature Engineering" and "Data Plots" parts, I used the key below to distinguish between the five variables within the graphs.
 * Brown – Number of Student's Absences
 * Light Red, Yellow, Neon Green, and Cyan – Daily Time Taken Traveling From Home to School in Minutes
