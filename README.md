@@ -13,7 +13,8 @@ In order to investigate whether the first four points directly affect the fifth 
 4. Data Plots – Generate bar plots and boxplots to feature the first two variables while making histograms as well as scatterplots to show the next two variables.
 5. Multiple Linear Regression – Break up the data by dividing it into the usual 80-20 split, create a correlation matrix, scale both sets, train the entire model, examine every coefficient in detail, and test the accuracy of the two new sets with a few examples.
 6. Ethical Concerns and Data Limitations – Discuss and go over potential problems with certain data that was collected from students while adding ways in which the dataset was flawed.
-* **Note:** For both the "Feature Engineering" and "Data Plots" parts, I used the following color key below to distinguish between four of the variables in the graphs.
+---
+**Note:** For both the "Feature Engineering" and "Data Plots" parts, I used the following color key below to distinguish between four of the variables in the graphs.
 * Neon Red, Yellow, Green, and Blue – The time taken traveling from home to school in minutes per day.
 * Darker Red, Yellow, Green, and Blue – The time spent on studying for school outside of class in hours per week.
 * Purple – The total number of failures for a previous class.
