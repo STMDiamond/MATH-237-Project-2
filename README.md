@@ -4,7 +4,8 @@ Hi and welcome to the page for my data science project in MATH 237. Using the St
 2. The total amount of time that a student spends studying for class in hours on a weekly basis.
 3. The total number of times that a student has failed a class from the past.
 4. The total number of times that a student has been absent from their school.
-5. The total number of points that a student has earned as their final grade.  
+5. The total number of points that a student has earned as their final grade.
+---
 In order to investigate whether the first four points directly affect the fifth one or not, I follow the steps below to answer all my research questions:
 1. Data Preparation – Import the libraries that are necessary, insert the dataset into the notebook, and view the variables.
 2. Missing Data – Search for any missing values and then only focus on these five features by removing the remaining ones.
